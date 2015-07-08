@@ -7,8 +7,8 @@ require "mng_campaigner/version"
 Gem::Specification.new do |s|
   s.name        = "mng_campaigner"
   s.version     = MngCampaigner::VERSION
-  s.authors     = ["Marcu Alexandru"]
-  s.email       = ["amarcu@repairpal.com"]
+  s.authors     = ["Marcu Alexandru", "Halmagean Cezar"]
+  s.email       = ["Mix & Go <office@mixandgo.com>"]
   s.homepage    = "http://mixandgo.com"
   s.summary     = "Handles short UTM links"
   s.description = "Generates a short url for a destination to which it appends pre-defined UTM tags"
